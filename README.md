@@ -2,9 +2,11 @@
 This repository check if palindrome number
 
 Problema
+
 Gavus sveiką skaičių pasakyk ar jis palindromas
 
 Analizė
+
 Man reikia patriktint ar pirmas ir paskutinis skaitmenys yra tokie patys, tai man reiks sukurti du kintamuosius, kurie atstovaus pirmąjį ir antrajį skaitmenis ir tuomet sulygint juos.
 Kintamieji:
 Ivestis ir pirmas skaitmuo - skaicius
