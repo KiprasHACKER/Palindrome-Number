@@ -13,10 +13,7 @@ Isvestis: "Taip, sis skaicius yra palindromas!"/"Ne, sis skaius nera palindromas
 
 Formulės
 1. AntrasSkaicius = AntrasSkaicius - skaicius / 10 * 10
-2. while (skaicius > 9)
-{
-skaicius = skaicius / 10;
-}
+2. while (skaicius > 9) {skaicius = skaicius / 10;}
 
 Algoritmo konstravimas/projektavimas
 1. Irasau kokį skaičių noriu, kad patikrintų 
